@@ -23,6 +23,7 @@ I did this because the number of dates to change wasn’t much, if it was more t
 7.	Education: Using the transform tab, I 
 - Replace blanks with None
 - Replace ‘s with blank
+- Extract text after delimiter, in the advance option scan the delimiter from the start of the input and the number of delimiters to skip is 1 so as to eliminate the GED in High School
 8.	Employment Status:
 - Using Add column I extracted text between delimiter ( and ) to extract the text between them
 - I renamed the column to Employment Type
