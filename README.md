@@ -1,7 +1,8 @@
 # HealthCare_Data_Cleaning
 A dive into data cleaning with power query and excel.
 
-NOTE: Before commencing with the data cleaning in Date of Admission column I manually replaced the date in word format to the actual date, while the date in number format I highlighted and change type to short date in excel, I also changed the data type of salary to general to change negative values from (100) to -100 before beginning the cleaning in Power Query.
+# NOTE: 
+Before commencing with the data cleaning in Date of Admission column I manually replaced the date in word format to the actual date, while the date in number format I highlighted and change type to short date in excel, I also changed the data type of salary to general to change negative values from (100) to -100 before beginning the cleaning in Power Query.
 I did this because the number of dates to change wasn’t much, if it was more than expected I would have taken a different approach with formulas.
 1.	ID: I did no correction for the ID column, but I noticed some duplicates in the ID
 2.	Name: Using the transform tab I 
@@ -53,6 +54,8 @@ I did this because the number of dates to change wasn’t much, if it was more t
 - I highlighted the whole column and Detect Data Type in Transform tab
 12. Date of Admission: using the add column and date option, I 
 - Added Year, Month and Month name column
-Further Steps taken in Excel highlighting 
+
+# Further Steps taken in Excel highlighting limitation also
 - Highlighted the entire table and remove duplicates from the Data tab, highlight all columns and click Ok. 3 duplicate values found and removed; 1656 unique values remain
-- I Highlighted the Age below 18 to confirm the authenticity of the data. I left the age less than 18 so i can confirm from the data source why the data exit maybe they were wrongly inputed or I need to delete it.
+- I Highlighted the Age below 18 to confirm the authenticity of the data.
+- I left the age less than 18 so i can confirm from the data source why the data exit maybe they were wrongly inputed or I need to delete it.
