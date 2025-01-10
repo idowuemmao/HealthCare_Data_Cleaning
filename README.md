@@ -43,8 +43,7 @@ I did this because the number of dates to change wasn’t much, if it was more t
 - Extracted Text Before Delimiter (
 - Trimmed Text in Health Condition
 - Replaced blank with None
-11.	Health Condition
-12.	Credit Score
+11.	Credit Score
 - Extracted Text Before Delimiter ‘(‘ to remove the (typo)
 - Trimmed text
 - Replace N/A with 0
