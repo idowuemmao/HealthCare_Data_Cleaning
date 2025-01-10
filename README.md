@@ -55,4 +55,4 @@ I did this because the number of dates to change wasn’t much, if it was more t
 - Added Year, Month and Month name column
 Further Steps taken in Excel highlighting 
 - Highlighted the entire table and remove duplicates from the Data tab, highlight all columns and click Ok. 3 duplicate values found and removed; 1656 unique values remain
-- I Highlighted the Age below 18 to confirm the authenticity of the data.
+- I Highlighted the Age below 18 to confirm the authenticity of the data. I left the age less than 18 so i can confirm from the data source why the data exit maybe they were wrongly inputed or I need to delete it.
