@@ -51,7 +51,8 @@ I did this because the number of dates to change wasn’t much, if it was more t
 - Replace N/A with 0
 - Replace none with 0
 - I highlighted the whole column and Detect Data Type in Transform tab
-
+12. Date of Admission: using the add column and date option, I 
+- Added Year, Month and Month name column
 Further Steps taken in Excel highlighting 
 - Highlighted the entire table and remove duplicates from the Data tab, highlight all columns and click Ok. 3 duplicate values found and removed; 1656 unique values remain
 - I Highlighted the Age below 18 to confirm the authenticity of the data.
