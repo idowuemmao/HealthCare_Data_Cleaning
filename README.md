@@ -4,6 +4,8 @@ A dive into data cleaning with power query and excel.
 # NOTE: 
 Before commencing with the data cleaning in Date of Admission column I manually replaced the date in word format to the actual date, while the date in number format I highlighted and change type to short date in excel, I also changed the data type of salary to general to change negative values from (100) to -100 before beginning the cleaning in Power Query.
 I did this because the number of dates to change wasn’t much, if it was more than expected I would have taken a different approach with formulas.
+
+# Applied steps by columns
 1.	ID: I did no correction for the ID column, but I noticed some duplicates in the ID
 2.	Name: Using the transform tab I 
 - Capitalized each word using – Transform > Format > Capitalize Each Word
