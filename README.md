@@ -39,6 +39,7 @@ I did this because the number of dates to change wasn’t much, if it was more t
 - Replace “Missing” with 0 
 - Replace blank with 0
 - Replace blanks in salary structure with None
+- Calculate absolute value: this will convert all negative values to positive values. I did this because there is no negative salary.
 10.	Health Condition:
 - Extracted Text Before Delimiter (
 - Trimmed Text in Health Condition
