@@ -57,6 +57,9 @@ I did this because the number of dates to change wasn’t much, if it was more t
 12. Date of Admission: using the add column and date option, I 
 - Added Year, Month and Month name column
 
+![Dashboard](https://github.com/user-attachments/assets/7a44b1c7-d1ce-4894-9c10-c25f7c2e2d0b)
+
+
 # Further Steps taken in Excel highlighting limitation also
 - Highlighted the entire table and remove duplicates from the Data tab, highlight all columns and click Ok. 3 duplicate values found and removed; 1656 unique values remain
 - I Highlighted the Age below 18 to investigate the authenticity of the data and the reason for the outlier before taking any further action.
