@@ -57,6 +57,7 @@ I did this because the number of dates to change wasn’t much, if it was more t
 12. Date of Admission: using the add column and date option, I 
 - Added Year, Month and Month name column
 
+Below is the Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/7a44b1c7-d1ce-4894-9c10-c25f7c2e2d0b)
 
 
